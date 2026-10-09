@@ -1,0 +1,6 @@
+info:
+  name: get 11
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/notifications-regression-3/11
